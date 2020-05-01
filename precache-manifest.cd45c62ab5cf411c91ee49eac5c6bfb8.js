@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44eb25958d672e92e9da769d8d0f3823",
+    "revision": "df815d8518a419f72286f396acb93238",
     "url": "/tourlist-redux-pwa/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tourlist-redux-pwa/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "4a2545046051b4bf714f",
-    "url": "/tourlist-redux-pwa/static/css/main.d94b9b00.chunk.css"
+    "revision": "46b03783c0c97d59e526",
+    "url": "/tourlist-redux-pwa/static/css/main.c973e247.chunk.css"
   },
   {
     "revision": "cb5d9647633f1146ae63",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tourlist-redux-pwa/static/js/2.f12a31f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a2545046051b4bf714f",
-    "url": "/tourlist-redux-pwa/static/js/main.600d59c4.chunk.js"
+    "revision": "46b03783c0c97d59e526",
+    "url": "/tourlist-redux-pwa/static/js/main.af9e44b5.chunk.js"
   },
   {
     "revision": "d955605501b5c4dc1d0a",
