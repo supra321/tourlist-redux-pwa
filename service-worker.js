@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tourlist-redux-pwa/precache-manifest.6007a8ae399ee654ea9cf629cfc7a7a0.js"
+  "/tourlist-redux-pwa/precache-manifest.cd45c62ab5cf411c91ee49eac5c6bfb8.js"
 );
 
 self.addEventListener('message', (event) => {
