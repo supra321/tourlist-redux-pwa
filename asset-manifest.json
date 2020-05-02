@@ -1,26 +1,34 @@
 {
   "files": {
-    "main.css": "/tourlist-redux-pwa/static/css/main.c973e247.chunk.css",
-    "main.js": "/tourlist-redux-pwa/static/js/main.0b795527.chunk.js",
-    "main.js.map": "/tourlist-redux-pwa/static/js/main.0b795527.chunk.js.map",
+    "main.css": "/tourlist-redux-pwa/static/css/main.081dfe16.chunk.css",
+    "main.js": "/tourlist-redux-pwa/static/js/main.cf13254b.chunk.js",
+    "main.js.map": "/tourlist-redux-pwa/static/js/main.cf13254b.chunk.js.map",
     "runtime-main.js": "/tourlist-redux-pwa/static/js/runtime-main.89243a16.js",
     "runtime-main.js.map": "/tourlist-redux-pwa/static/js/runtime-main.89243a16.js.map",
     "static/css/2.036b41f9.chunk.css": "/tourlist-redux-pwa/static/css/2.036b41f9.chunk.css",
-    "static/js/2.f12a31f1.chunk.js": "/tourlist-redux-pwa/static/js/2.f12a31f1.chunk.js",
-    "static/js/2.f12a31f1.chunk.js.map": "/tourlist-redux-pwa/static/js/2.f12a31f1.chunk.js.map",
+    "static/js/2.5f6797a0.chunk.js": "/tourlist-redux-pwa/static/js/2.5f6797a0.chunk.js",
+    "static/js/2.5f6797a0.chunk.js.map": "/tourlist-redux-pwa/static/js/2.5f6797a0.chunk.js.map",
     "index.html": "/tourlist-redux-pwa/index.html",
-    "precache-manifest.6007a8ae399ee654ea9cf629cfc7a7a0.js": "/tourlist-redux-pwa/precache-manifest.6007a8ae399ee654ea9cf629cfc7a7a0.js",
+    "precache-manifest.3a40b1e8aac2942ad2012ec47e2c3643.js": "/tourlist-redux-pwa/precache-manifest.3a40b1e8aac2942ad2012ec47e2c3643.js",
     "service-worker.js": "/tourlist-redux-pwa/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/tourlist-redux-pwa/static/css/2.036b41f9.chunk.css.map",
-    "static/css/main.c973e247.chunk.css.map": "/tourlist-redux-pwa/static/css/main.c973e247.chunk.css.map",
-    "static/js/2.f12a31f1.chunk.js.LICENSE.txt": "/tourlist-redux-pwa/static/js/2.f12a31f1.chunk.js.LICENSE.txt",
+    "static/css/main.081dfe16.chunk.css.map": "/tourlist-redux-pwa/static/css/main.081dfe16.chunk.css.map",
+    "static/js/2.5f6797a0.chunk.js.LICENSE.txt": "/tourlist-redux-pwa/static/js/2.5f6797a0.chunk.js.LICENSE.txt",
+    "static/media/DARJEELING.jpg": "/tourlist-redux-pwa/static/media/DARJEELING.66bfce90.jpg",
+    "static/media/Darjeeling.pdf": "/tourlist-redux-pwa/static/media/Darjeeling.b974633f.pdf",
+    "static/media/HYDERABAD.jpg": "/tourlist-redux-pwa/static/media/HYDERABAD.740fa4ce.jpg",
+    "static/media/Hyderabad.pdf": "/tourlist-redux-pwa/static/media/Hyderabad.95207719.pdf",
+    "static/media/SHIMLA.jpg": "/tourlist-redux-pwa/static/media/SHIMLA.0fc68d88.jpg",
+    "static/media/Shimla.pdf": "/tourlist-redux-pwa/static/media/Shimla.f27553cc.pdf",
+    "static/media/Sravasti.pdf": "/tourlist-redux-pwa/static/media/Sravasti.9e14400c.pdf",
+    "static/media/Srinagar.pdf": "/tourlist-redux-pwa/static/media/Srinagar.e9ff0ec8.pdf",
     "static/media/App.css": "/tourlist-redux-pwa/static/media/futura-pt-medium-589e45b956de4.56f56c31.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.89243a16.js",
     "static/css/2.036b41f9.chunk.css",
-    "static/js/2.f12a31f1.chunk.js",
-    "static/css/main.c973e247.chunk.css",
-    "static/js/main.0b795527.chunk.js"
+    "static/js/2.5f6797a0.chunk.js",
+    "static/css/main.081dfe16.chunk.css",
+    "static/js/main.cf13254b.chunk.js"
   ]
 }
