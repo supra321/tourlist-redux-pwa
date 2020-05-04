@@ -1,0 +1,12 @@
+@font-face {
+font-display: swap;
+font-family: 'Futura PT Medium';
+font-style: normal;
+font-weight: normal;
+src: local('Futura PT Medium'), url('../containers/futura-pt-medium-589e45b956de4.woff') format('woff');
+}
+h1{
+	font-family: 'Futura PT Medium';
+	font-weight: 200;
+	color: rgba(0,0,0,0.65);
+}
