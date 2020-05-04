@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a8577b70222e3156045ebe593e1604b",
+    "revision": "30f5e1932ee4f4290690adadf851740c",
     "url": "/tourlist-redux-pwa/index.html"
   },
   {
-    "revision": "a7f015836d252da0a8f6",
+    "revision": "90bec40d89195481061f",
     "url": "/tourlist-redux-pwa/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "425c5a56dd0021ea8af1",
-    "url": "/tourlist-redux-pwa/static/css/main.081dfe16.chunk.css"
+    "revision": "19bf856b022a24840dcc",
+    "url": "/tourlist-redux-pwa/static/css/main.719c77c0.chunk.css"
   },
   {
-    "revision": "a7f015836d252da0a8f6",
-    "url": "/tourlist-redux-pwa/static/js/2.5f6797a0.chunk.js"
+    "revision": "90bec40d89195481061f",
+    "url": "/tourlist-redux-pwa/static/js/2.6f6eafe1.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/tourlist-redux-pwa/static/js/2.5f6797a0.chunk.js.LICENSE.txt"
+    "url": "/tourlist-redux-pwa/static/js/2.6f6eafe1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "425c5a56dd0021ea8af1",
-    "url": "/tourlist-redux-pwa/static/js/main.cf13254b.chunk.js"
+    "revision": "19bf856b022a24840dcc",
+    "url": "/tourlist-redux-pwa/static/js/main.a8f76673.chunk.js"
   },
   {
     "revision": "d955605501b5c4dc1d0a",
