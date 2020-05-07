@@ -34,7 +34,6 @@ it('Handles REQUEST_PLACELIST_PENDING',()=>{
 	const store=mockStore();
 	store.dispatch(actions.requestPlacelist());
 	const action2=store.getActions();
-	console.log(action2);
 	const expectedAction={
 		type: REQUEST_PLACELIST_PENDING
 	}
