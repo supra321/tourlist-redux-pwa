@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tourlist-redux-pwa/static/css/main.719c77c0.chunk.css",
-    "main.js": "/tourlist-redux-pwa/static/js/main.a8f76673.chunk.js",
-    "main.js.map": "/tourlist-redux-pwa/static/js/main.a8f76673.chunk.js.map",
+    "main.js": "/tourlist-redux-pwa/static/js/main.c79ff4ac.chunk.js",
+    "main.js.map": "/tourlist-redux-pwa/static/js/main.c79ff4ac.chunk.js.map",
     "runtime-main.js": "/tourlist-redux-pwa/static/js/runtime-main.89243a16.js",
     "runtime-main.js.map": "/tourlist-redux-pwa/static/js/runtime-main.89243a16.js.map",
     "static/css/2.036b41f9.chunk.css": "/tourlist-redux-pwa/static/css/2.036b41f9.chunk.css",
     "static/js/2.6f6eafe1.chunk.js": "/tourlist-redux-pwa/static/js/2.6f6eafe1.chunk.js",
     "static/js/2.6f6eafe1.chunk.js.map": "/tourlist-redux-pwa/static/js/2.6f6eafe1.chunk.js.map",
     "index.html": "/tourlist-redux-pwa/index.html",
-    "precache-manifest.1c8891e04dd708f71967a74be76189f7.js": "/tourlist-redux-pwa/precache-manifest.1c8891e04dd708f71967a74be76189f7.js",
+    "precache-manifest.6e061b02ec9fcc699f2a2eecb28138ef.js": "/tourlist-redux-pwa/precache-manifest.6e061b02ec9fcc699f2a2eecb28138ef.js",
     "service-worker.js": "/tourlist-redux-pwa/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/tourlist-redux-pwa/static/css/2.036b41f9.chunk.css.map",
     "static/css/main.719c77c0.chunk.css.map": "/tourlist-redux-pwa/static/css/main.719c77c0.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.036b41f9.chunk.css",
     "static/js/2.6f6eafe1.chunk.js",
     "static/css/main.719c77c0.chunk.css",
-    "static/js/main.a8f76673.chunk.js"
+    "static/js/main.c79ff4ac.chunk.js"
   ]
 }
