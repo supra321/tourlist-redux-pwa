@@ -1,4 +1,4 @@
-version: 2.19.03
+version: 2.1
 jobs:
    build:
      docker:
@@ -15,7 +15,7 @@ jobs:
        - run: npm install
        - run: npm run test
 workflows:
-  version: 2.19.03
+  version: 2.1
   test-build:
     jobs:
       - test
